@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.25
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructures", "ADS\DataStructures.csproj", "{5F097584-B58F-4FD3-9A3A-E25E79BBE9AB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ContactManager", "ContactManager", "{E513F052-CE0E-476E-B507-3E764FAE574C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataStructures", "DataStructures", "{76261BD4-A3BF-4427-97E7-081371FE209C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F097584-B58F-4FD3-9A3A-E25E79BBE9AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F097584-B58F-4FD3-9A3A-E25E79BBE9AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F097584-B58F-4FD3-9A3A-E25E79BBE9AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F097584-B58F-4FD3-9A3A-E25E79BBE9AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {541D24E8-7B26-4AC2-A8F7-8A9A4CEF6190}
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5F097584-B58F-4FD3-9A3A-E25E79BBE9AB} = {76261BD4-A3BF-4427-97E7-081371FE209C}
+	EndGlobalSection
+EndGlobal
